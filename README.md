@@ -136,12 +136,36 @@ Bagi saya, teknologi adalah gabungan **rekayasa, kreativitas, logika, dan pemeca
 
 | Proyek | Status | Deskripsi |
 |---|---|---|
-| **Homelab Pribadi** | ![](https://img.shields.io/badge/-berjalan-2ea043?style=flat-square) | Belajar administrasi server Linux, layanan self-hosted, dan infrastruktur rumah di PC pribadi. |
-| **Media Baca Santri** | ![](https://img.shields.io/badge/-rencana-0969da?style=flat-square) | Situs bacaan edukasi dengan antarmuka pembaca dan admin terpisah, rencananya di-host sendiri di perangkat berspesifikasi rendah. |
-| **ESP32 Smart Alarm** | ![](https://img.shields.io/badge/-rencana-0969da?style=flat-square) | Alarm dengan dashboard web berbahasa Indonesia, banyak jadwal, pola dan durasi suara yang bisa diatur, serta tombol stop fisik. |
-| **Dashboard Informasi Pribadi** | ![](https://img.shields.io/badge/-ide-6e7681?style=flat-square) | Satu antarmuka untuk berita teknologi, data keuangan, ekonomi, dan info harian. |
-| **Lab Jaringan Rumah** | ![](https://img.shields.io/badge/-eksplorasi-2ea043?style=flat-square) | Router, switch, akses jarak jauh, dan link point-to-point antarlokasi. |
-| **Lab AI Lokal & Otomasi** | ![](https://img.shields.io/badge/-eksplorasi-2ea043?style=flat-square) | Mencoba Ollama dan n8n untuk alur kerja otomatis. |
+| **Homelab Pribadi** | 
+
+![](https://img.shields.io/badge/-berjalan-2ea043?style=flat-square)
+
+ | Belajar administrasi server Linux, layanan self-hosted, dan infrastruktur rumah di PC pribadi. |
+| **Media Baca Santri** | 
+
+![](https://img.shields.io/badge/-rencana-0969da?style=flat-square)
+
+ | Situs bacaan edukasi dengan antarmuka pembaca dan admin terpisah, rencananya di-host sendiri di perangkat berspesifikasi rendah. |
+| **ESP32 Smart Alarm** | 
+
+![](https://img.shields.io/badge/-rencana-0969da?style=flat-square)
+
+ | Alarm dengan dashboard web berbahasa Indonesia, banyak jadwal, pola dan durasi suara yang bisa diatur, serta tombol stop fisik. |
+| **Dashboard Informasi Pribadi** | 
+
+![](https://img.shields.io/badge/-ide-6e7681?style=flat-square)
+
+ | Satu antarmuka untuk berita teknologi, data keuangan, ekonomi, dan info harian. |
+| **Lab Jaringan Rumah** | 
+
+![](https://img.shields.io/badge/-eksplorasi-2ea043?style=flat-square)
+
+ | Router, switch, akses jarak jauh, dan link point-to-point antarlokasi. |
+| **Lab AI Lokal & Otomasi** | 
+
+![](https://img.shields.io/badge/-eksplorasi-2ea043?style=flat-square)
+
+ | Mencoba Ollama dan n8n untuk alur kerja otomatis. |
 
 <img width="100%" src="divider.svg" alt="" />
 
@@ -202,10 +226,6 @@ Pasar, kripto, dan perkembangan ekonomi sebagai bahan belajar.
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akmalnabill&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=0969da&text_color=c9d1d9&count_private=true" />
     <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=akmalnabill&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2ea043&icon_color=0969da&text_color=24292f&count_private=true" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalnabill&layout=compact&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9" />
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalnabill&layout=compact&hide_border=true&bg_color=ffffff&title_color=2ea043&text_color=24292f" />
-  </picture>
 </p>
 
 <p align="center">
@@ -216,7 +236,7 @@ Pasar, kripto, dan perkembangan ekonomi sebagai bahan belajar.
 </p>
 
 <p align="center">
-  <img alt="Grafik aktivitas" src="https://github-readme-activity-graph.vercel.app/graph?username=akmalnabill&bg_color=0d1117&color=2ea043&line=0969da&point=ffffff&area=true&hide_border=true" />
+  <img alt="Kalender kontribusi" src="https://ghchart.rshah.org/2ea043/akmalnabill" width="95%" />
 </p>
 
 <img width="100%" src="footer.svg" alt="Terima kasih sudah mampir" />
